@@ -1,0 +1,3 @@
+#Pairing with a smartphone
+
+Coming soon...
