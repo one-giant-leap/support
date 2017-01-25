@@ -1,0 +1,17 @@
+/* CSS for pdf */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+.book.font-family-1 {
+ font-family: 'Roboto',serif;
+}
+
+.book .book-header, .book .book-summary {
+ font-family: 'Roboto',serif;
+}
+
+h2, h3 {
+ font-family: 'Roboto Slab',serif;
+}
