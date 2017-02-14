@@ -24,18 +24,7 @@ Note: **Blade tip to top hand** *will always be a larger number* than **Blade ti
 
 Note: Applying tape over the shaft in the location of the measured hand positions (as shown below) can help ensure that the athlete's hand positions do not change during paddling.
 
-
-
-
-
-
-
 ![Hand position tape](/assets/hand-position-tape.jpg)
-
-
-
-
-
 
 The following steps will guide you through the process of measuring the distances and updating these settings on the power meter using the Windows Desktop App.
 
