@@ -1,4 +1,4 @@
-# Perform a 'Zero Offset Calibration'
+# Perform a zero offset calibration
 
 Each shaft contains a total of _three_ channels which are used to measure the force being applied to the paddle.
 
