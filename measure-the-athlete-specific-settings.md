@@ -72,7 +72,7 @@ The following steps will guide you through the process of measuring the distance
 
 ### Step 4
 * Open the One Giant Leap Windows Desktop App.
-* Connect to the desired Kayak Power Meter.
+* Connect to the desired kayak peter.
 * Expand the 'Athlete Settings' tab.
 
 > To set the 'Blade tip to top hand distance' & the 'Blade tip to bottom hand distance' both the left and right shaft sections need to be connected.
