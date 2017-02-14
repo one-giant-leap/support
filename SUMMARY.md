@@ -9,7 +9,7 @@
   * [Measure the 'Blade Specific' settings](measure-the-blade-specific-settings.md)
     * [Blade tip to datum line distance](blade-tip-to-datum-line-distance.md)
     * [Blade type attached to shaft](blade-type-attached-to-shaft.md)
-  * [Perform a zero offset calibration](perform-a-'zero-offset'-calibration.md)
+  * [Perform a zero offset calibration](perform-a-zero-offset-calibration.md)
 * [Real-time Data](real-time-data.md)
   * [Pairing with a Garmin Forerunner 910XT](pairing-with-a-garmin-forerunner-910xt.md)
   * [Pairing with a smartphone](pairing-with-a-smartphone.md)
