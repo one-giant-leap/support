@@ -74,7 +74,7 @@ The following steps will guide you through the assembly process.
 * Rotate the blade until it is level.
 * Using a pen, mark this position by scribing alignment marks (see Step 5).
 
-![Right blade level](assets/right-blade-level.jpg)
+![Right blade level](/assets/right-blade-level.jpg)
 
 ---
 
