@@ -10,7 +10,9 @@ The zero offset can drift a small amount with a change in temperature. This is w
 
 Note: After performing a number of zero offset calibrations, it will quickly become clear how frequently or infrequently a zero offset calibration is required. If the zero offsets vary by no more than **one** between zero offsets calibrations, then there is little to be gained from performing a calibration regularly. 
 
-The zero offset of a channel will be between 0 and 1000. Typical 'zero offsets' will change no more than 2-5 from one zero offset calibration to another. A change larger than 10 is an indication that either a bending force is being applied to the shaft; that there is an issue with that particular channel or that you frequently travel between particularly hot and cold climates.
+The zero offset of a channel will be between 0 and 1000. Typical 'zero offsets' will change no more than 2-5 from one zero offset calibration to another. A change larger than 10 is an indication that either a bending force is being applied to the shaft; that there is an issue with that particular channel or that you frequently travel between extremely hot and cold climates.
+
+The following steps will guide you through the process of performing a zero offset calibration.
 
 ---
    
