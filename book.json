@@ -1,5 +1,5 @@
 {
-    pdf: {
-        fontFamily: "Times New Roman"
+    "pdf": {
+        "fontFamily": "Times New Roman"
     }
 }
