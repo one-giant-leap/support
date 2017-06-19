@@ -4,7 +4,7 @@
 
 ---
 
-## Step 1
+<h2>Step 1</h2>
 * To set the 'Blade type attached to shaft' both the left and right shaft sections need to be connected.
 * Select the appropriate blade type from the drop-down box directly to the right of 'Blade type attached to shaft'.
 
