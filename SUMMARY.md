@@ -26,4 +26,5 @@
   * [Activity transfer with Garmin Express](activity-transfer-with-garmin-express.md)
     * [Initial sync](initial-sync.md)
     * [Subsequent sync](subsequent-sync.md)
+* [Warranty](warranty.md)
 
