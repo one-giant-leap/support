@@ -1,4 +1,4 @@
-# Warranty
+# Warranty Information
 
 One Giant Leap's power meters are warranted to be free from defects in materials or workmanship for 2 years from the date of purchase.
 
